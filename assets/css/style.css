@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+ul {
+    justify-items: center;
+}
+
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}
