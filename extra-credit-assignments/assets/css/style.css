@@ -92,13 +92,9 @@ nav.primary ul li a:hover {
     background-color: rgba(0, 0, 0, .8);
 }
 
-nav.primary ul {
-  flex-direction:column;
-  gap:10px;
-}
-
-header.primary {
-    border-bottom: 1px solid white;
+img {
+    max-width: 50vw;
+    max-height: 50vw;
 }
 
 /* Classes */
