@@ -101,6 +101,10 @@ header.primary {
     border-bottom: 1px solid white;
 }
 
+a:visited {
+    border-color: black;
+}
+
 /* Classes */
 
 .container{
